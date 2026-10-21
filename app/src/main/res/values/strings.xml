@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="btn_monday">Понедельник</string>
+    <string name="btn_tuesday">Вторник</string>
+    <string name="btn_wednesday">Среда</string>
+    <string name="btn_thursday">Четверг</string>
+    <string name="btn_friday">Пятница</string>
+    <string name="btn_saturday">Суббота</string>
+    <string name="hint_time">Введите время</string>
+    <string name="hint_subject">Введите предмет</string>
+</resources>
