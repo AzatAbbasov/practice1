@@ -1,0 +1,154 @@
+--------- beginning of main
+10-21 15:35:17.502 11487 11487 D MainActivity: onCreate
+10-21 15:35:17.515 11487 11487 D MainActivity: onStart
+10-21 15:35:17.521 11487 11487 D MainActivity: onResume
+10-21 15:35:21.785 11487 11487 I MainActivity: Выбран понедельник
+10-21 15:35:21.817 11487 11487 D MainActivity: onPause
+10-21 15:35:21.937 11487 11487 D ListActivity: onCreate
+10-21 15:35:21.938 11487 11487 I ListActivity: Получен день: Понедельник
+10-21 15:35:21.949 11487 11487 D ListActivity: onStart
+10-21 15:35:21.954 11487 11487 D ListActivity: onResume
+10-21 15:35:23.135 11487 11487 D MainActivity: onStop
+10-21 15:35:24.368 11487 11487 I ListActivity: Переход к деталям пары
+10-21 15:35:24.438 11487 11487 D ListActivity: onPause
+10-21 15:35:25.736 11487 11487 D ListActivity: onStop
+10-21 15:35:27.933 11487 11487 D ListActivity: onStart
+10-21 15:35:27.936 11487 11487 D ListActivity: onResume
+10-21 15:36:25.967 11643 11643 D MainActivity: onCreate
+10-21 15:36:25.971 11643 11643 D MainActivity: onStart
+10-21 15:36:25.974 11643 11643 D MainActivity: onResume
+10-21 15:36:28.962 11643 11643 I MainActivity: Выбран вторник
+10-21 15:36:28.993 11643 11643 D MainActivity: onPause
+10-21 15:36:29.054 11643 11643 D ListActivity: onCreate
+10-21 15:36:29.055 11643 11643 I ListActivity: Получен день: Вторник
+10-21 15:36:29.059 11643 11643 D ListActivity: onStart
+10-21 15:36:29.061 11643 11643 D ListActivity: onResume
+10-21 15:36:29.886 11643 11643 D MainActivity: onStop
+10-21 15:50:11.916 12035 12035 D MainActivity: onCreate
+10-21 15:50:11.925 12035 12035 D MainActivity: onStart
+10-21 15:50:11.931 12035 12035 D MainActivity: onResume
+10-21 15:50:14.383 12035 12035 I MainActivity: Выбран понедельник
+10-21 15:50:14.647 12035 12035 D ListActivity: onCreate
+10-21 15:50:14.654 12035 12035 D ListActivity: onStart
+10-21 15:50:14.656 12035 12035 D ListActivity: onResume
+10-21 15:51:29.019 12035 12035 D ListActivity: onStart
+10-21 15:51:29.021 12035 12035 D ListActivity: onResume
+10-21 15:51:47.315 12035 12035 I ListActivity: Введено: 9:00, математика
+10-21 15:51:51.181 12035 12035 D ListActivity: onStart
+10-21 15:51:51.185 12035 12035 D ListActivity: onResume
+10-21 15:55:00.783 12035 12035 D ListActivity: onStart
+10-21 15:55:00.785 12035 12035 D ListActivity: onResume
+10-21 15:55:17.021 12035 12035 I ListActivity: Введено: 9:00, 
+10-21 15:55:17.021 12035 12035 W ListActivity: Пустые поля, сохранение отменено
+10-21 15:55:18.085 12035 12035 W ListActivity: Пустые поля, сохранение отменено
+10-21 15:55:19.133 12035 12035 W ListActivity: Пустые поля, сохранение отменено
+10-21 15:58:42.312 12372 12372 D MainActivity: onCreate
+10-21 15:58:42.320 12372 12372 D MainActivity: onStart
+10-21 15:58:42.327 12372 12372 D MainActivity: onResume
+10-21 15:58:46.112 12372 12372 I MainActivity: Выбран день: Понедельник
+10-21 15:58:46.281 12372 12372 D ListActivity: onCreate
+10-21 15:58:46.291 12372 12372 D ListActivity: onStart
+10-21 15:58:46.295 12372 12372 D ListActivity: onResume
+10-21 15:59:39.271 12372 12372 I ListActivity: Сохранено: Понедельник, 9:00, Math
+10-21 15:59:41.729 12372 12372 D MainActivity: onCreate
+10-21 15:59:41.734 12372 12372 D MainActivity: onStart
+10-21 15:59:41.736 12372 12372 D MainActivity: onResume
+10-21 15:59:43.666 12372 12372 I MainActivity: Выбран день: Понедельник
+10-21 15:59:43.742 12372 12372 D ListActivity: onCreate
+10-21 15:59:43.747 12372 12372 D ListActivity: onStart
+10-21 15:59:43.749 12372 12372 D ListActivity: onResume
+10-21 15:59:45.716 12372 12372 W ListActivity: Пустые поля, сохранение отменено
+10-21 16:00:05.206 12372 12372 I ListActivity: Сохранено: Понедельник, 9:00, Math
+10-21 16:44:18.057 13439 13439 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 16:44:20.118 13439 13439 D MainActivity: onCreate
+10-21 16:44:20.120 13439 13439 D MainActivity: onStart
+10-21 16:44:20.123 13439 13439 D MainActivity: onResume
+10-21 16:44:21.790 13439 13439 I MainActivity: Выбран день: Понедельник
+10-21 16:44:21.834 13439 13439 D ListActivity: onCreate
+10-21 16:44:21.836 13439 13439 D ListActivity: Загружены старые данные для Понедельник
+10-21 16:44:21.837 13439 13439 D ListActivity: onStart
+10-21 16:44:21.839 13439 13439 D ListActivity: onResume
+10-21 16:44:24.867 13439 13439 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 16:44:27.597 13439 13439 D MainActivity: onCreate
+10-21 16:44:27.600 13439 13439 D MainActivity: onStart
+10-21 16:44:27.601 13439 13439 D MainActivity: onResume
+10-21 16:44:29.117 13439 13439 I MainActivity: Выбран день: Вторник
+10-21 16:44:29.167 13439 13439 D ListActivity: onCreate
+10-21 16:44:29.170 13439 13439 D ListActivity: onStart
+10-21 16:44:29.171 13439 13439 D ListActivity: onResume
+10-21 16:44:32.118 13439 13439 W ListActivity: Пустые поля, сохранение отменено
+10-21 16:44:35.100 13439 13439 W ListActivity: Пустые поля, сохранение отменено
+10-21 16:51:03.482 13623 13623 D MainActivity: onCreate
+10-21 16:51:03.485 13623 13623 D MainActivity: onStart
+10-21 16:51:03.487 13623 13623 D MainActivity: onResume
+10-21 16:51:05.297 13623 13623 I MainActivity: Выбран день: Понедельник
+10-21 16:51:05.351 13623 13623 D ListActivity: onCreate
+10-21 16:51:05.356 13623 13623 D ListActivity: Загружены старые данные для Понедельник
+10-21 16:51:05.358 13623 13623 D ListActivity: onStart
+10-21 16:51:05.361 13623 13623 D ListActivity: onResume
+10-21 16:51:11.283 13623 13623 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 16:53:07.085 13691 13691 D MainActivity: onCreate
+10-21 16:53:07.090 13691 13691 D MainActivity: onStart
+10-21 16:53:07.093 13691 13691 D MainActivity: onResume
+10-21 16:53:08.816 13691 13691 I MainActivity: Выбран день: Понедельник
+10-21 16:53:08.884 13691 13691 D ListActivity: onCreate
+10-21 16:53:08.888 13691 13691 D ListActivity: Загружены старые данные для Понедельник
+10-21 16:53:08.890 13691 13691 D ListActivity: onStart
+10-21 16:53:08.892 13691 13691 D ListActivity: onResume
+10-21 16:53:15.091 13691 13691 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 16:53:28.018 13691 13691 D MainActivity: onCreate
+10-21 16:53:28.020 13691 13691 D MainActivity: onStart
+10-21 16:53:28.021 13691 13691 D MainActivity: onResume
+10-21 16:53:30.310 13691 13691 I MainActivity: Выбран день: Понедельник
+10-21 16:53:30.353 13691 13691 D ListActivity: onCreate
+10-21 16:53:30.355 13691 13691 D ListActivity: Загружены старые данные для Понедельник
+10-21 16:53:30.357 13691 13691 D ListActivity: onStart
+10-21 16:53:30.358 13691 13691 D ListActivity: onResume
+10-21 16:53:33.760 13691 13691 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 16:53:36.656 13691 13691 D MainActivity: onCreate
+10-21 16:53:36.658 13691 13691 D MainActivity: onStart
+10-21 16:53:36.659 13691 13691 D MainActivity: onResume
+10-21 16:53:38.086 13691 13691 I MainActivity: Выбран день: Понедельник
+10-21 16:53:38.125 13691 13691 D ListActivity: onCreate
+10-21 16:53:38.127 13691 13691 D ListActivity: Загружены старые данные для Понедельник
+10-21 16:53:38.129 13691 13691 D ListActivity: onStart
+10-21 16:53:38.130 13691 13691 D ListActivity: onResume
+10-21 16:53:40.233 13691 13691 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 16:53:42.993 13691 13691 D MainActivity: onCreate
+10-21 16:53:42.996 13691 13691 D MainActivity: onStart
+10-21 16:53:42.997 13691 13691 D MainActivity: onResume
+10-21 17:04:14.932 13867 13867 D MainActivity: onCreate
+10-21 17:04:14.934 13867 13867 D MainActivity: onStart
+10-21 17:04:14.937 13867 13867 D MainActivity: onResume
+10-21 17:04:17.125 13867 13867 I MainActivity: Выбран день: Понедельник
+10-21 17:04:17.248 13867 13867 D ListActivity: onCreate
+10-21 17:04:17.254 13867 13867 D ListActivity: Загружены старые данные для Понедельник
+10-21 17:04:17.258 13867 13867 D ListActivity: onStart
+10-21 17:04:17.259 13867 13867 D ListActivity: onResume
+10-21 17:04:19.304 13867 13867 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 17:04:23.940 13867 13867 D MainActivity: onCreate
+10-21 17:04:23.944 13867 13867 D MainActivity: onStart
+10-21 17:04:23.947 13867 13867 D MainActivity: onResume
+10-21 17:04:25.172 13867 13867 I MainActivity: Выбран день: Понедельник
+10-21 17:04:25.226 13867 13867 D ListActivity: onCreate
+10-21 17:04:25.229 13867 13867 D ListActivity: Загружены старые данные для Понедельник
+10-21 17:04:25.233 13867 13867 D ListActivity: onStart
+10-21 17:04:25.234 13867 13867 D ListActivity: onResume
+10-21 17:04:27.172 13867 13867 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 17:04:29.419 13867 13867 D MainActivity: onCreate
+10-21 17:04:29.424 13867 13867 D MainActivity: onStart
+10-21 17:04:29.425 13867 13867 D MainActivity: onResume
+10-21 17:05:03.605 13867 13867 I MainActivity: Выбран день: Понедельник
+10-21 17:05:03.668 13867 13867 D ListActivity: onCreate
+10-21 17:05:03.672 13867 13867 D ListActivity: Загружены старые данные для Понедельник
+10-21 17:05:03.674 13867 13867 D ListActivity: onStart
+10-21 17:05:03.676 13867 13867 D ListActivity: onResume
+10-21 17:05:05.257 13867 13867 I ListActivity: Сохранено для Понедельник: 9:00, math
+10-21 17:05:18.927 13867 13867 D MainActivity: onCreate
+10-21 17:05:18.929 13867 13867 D MainActivity: onStart
+10-21 17:05:18.930 13867 13867 D MainActivity: onResume
+10-21 17:05:21.097 13867 13867 I MainActivity: Выбран день: Понедельник
+10-21 17:05:21.135 13867 13867 D ListActivity: onCreate
+10-21 17:05:21.137 13867 13867 D ListActivity: Загружены старые данные для Понедельник
+10-21 17:05:21.140 13867 13867 D ListActivity: onStart
+10-21 17:05:21.142 13867 13867 D ListActivity: onResume
